@@ -1,5 +1,5 @@
 
-### hey there 
+### Full stack developer - Data scientist hey there 
 
 
 <a href="https://www.linkedin.com/in/zitane-smail-5682011a9/">
