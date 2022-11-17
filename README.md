@@ -6,8 +6,6 @@
   <img align="left" alt="Zitan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 hi, i'm [Zitane Smail](https://zitansmail.com/), I’m SmailData Scientist with a background in Business Analytics. I am passionate about solving business problems. I have 3+ years’ software development experience as a full-stack developer and 2 years as data scientist, I specialize in the Laravel PHP framework on the backend, Vue.js on the frontend and Tailwind CSS for styling.
