@@ -2,13 +2,12 @@
 ### Full stack developer - Data scientist hey there 
 
 
-<a href="https://www.linkedin.com/in/zitane-smail-5682011a9/">
-  Linked In
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zitane-smail-5682011a9/)
+
 
 <br />
 
-hi, i'm [Zitane Smail](https://zitansmail.com/), I’m SmailData Scientist with a background in Business Analytics. I am passionate about solving business problems. I have 3+ years’ software development experience as a full-stack developer and 2 years as data scientist, I specialize in the Laravel PHP framework on the backend, Vue.js on the frontend and Tailwind CSS for styling.
+hi, i'm [Zitane Smail](https://zitansmail.com/), I’m SmailData Scientist with a background in Business Analytics. I am passionate about solving business problems. I have 4+ years’ software development experience as a full-stack developer and 2 years as data scientist, I specialize in the Laravel PHP framework on the backend, Vue.js on the frontend and Tailwind CSS for styling.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
