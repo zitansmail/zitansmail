@@ -3,7 +3,7 @@
 
 
 <a href="https://www.linkedin.com/in/zitane-smail-5682011a9/">
-  <img align="left" alt="Zitan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  Linked In
 </a>
 
 <br />
@@ -18,7 +18,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:zitansmail@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 - 📫 @googleScholar - https://scholar.google.com/citations?user=ElqUIRMAAAAJ&hl=en
-- 📫 @website - www.zitansmail.com
+- 📫 @website - www.blog.zitansmail.com
 
 
 **languages and tools:**  
@@ -47,7 +47,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 hrs 7 mins    ████████████████████░░░░░   80.19 %
+php   6 hrs 7 mins    ████████████████████░░░░░   80.19 %
 JavaScript   1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
 JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
